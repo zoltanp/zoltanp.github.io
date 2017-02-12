@@ -10,6 +10,7 @@ paginate: 5
 permalink: /:year/:month/:title
 
 # Social share and comments.
+enable-social-module: false
 disqus-id: yourusername
 twitter: yourusername
 github: yourusername

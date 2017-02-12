@@ -12,6 +12,7 @@ layout: default
     </article>
 
 
+{% if site.enable-social-module %}
     <div class="social module">
         <ul>
 
@@ -32,6 +33,7 @@ layout: default
             <li class="gp"><a target="_blank" title="Share on Google+" href="https://plus.google.com/share?url={{ url }}">Google+</a></li>
         </ul>
     </div>
+{% endif %}
 
 {% if site.disqus-id %}
 <div class="module color-3">
