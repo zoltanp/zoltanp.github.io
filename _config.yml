@@ -7,7 +7,7 @@ markdown: kramdown
 highlighter: rouge
 
 paginate: 5
-permalink: /:title
+permalink: /:year/:month/:title
 
 # Social share and comments.
 disqus-id: yourusername
