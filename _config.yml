@@ -1,7 +1,7 @@
 # General
 name: zoltanp's blog
 description: "Various stuff which I considered worth publishing."
-url: http://localhost:4000
+url: https://zoltanp.github.io/
 
 markdown: kramdown
 highlighter: rouge
