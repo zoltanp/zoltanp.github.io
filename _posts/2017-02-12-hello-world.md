@@ -6,3 +6,9 @@ categories: jekyll
 ---
 
 The obligatory first post.
+
+TODO list:
+
+* comments with disqus
+* post categories
+* proper contact information
