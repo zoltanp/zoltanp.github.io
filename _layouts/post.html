@@ -9,7 +9,16 @@ layout: default
         <hr>
         {{ content }}
         <p class="top"><small><a href="#top">[top]</a></small></p>
+
+	<h3>Categories</h3>
+	{% for category in page.categories %}
+		<a href="/category/{{ category }}.html" style="text-decoration: none;">
+		{{ category | capitalize }}
+		</a> <br/>
+	{% endfor %}
+
     </article>
+
 
 
 {% if site.enable-social-module %}

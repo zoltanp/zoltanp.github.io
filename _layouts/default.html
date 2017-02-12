@@ -55,6 +55,13 @@
             <a href="https://plus.google.com/{{ site.google }}" title="Profile in Google+" target="_blank">Google+</a>
             {% endif %}
             <a href="{{ site.url }}/feed.xml" title="Suscribe to RSS" target="_blank">rss</a>
+
+            <hr/>
+			<p>Post categories:</p>
+			{% for category in site.categories %}
+				<a href="/category/{{ category[0] }}.html">
+					{{ category[0] }}</a>
+			{% endfor %}
         </div>
 
     </header>
