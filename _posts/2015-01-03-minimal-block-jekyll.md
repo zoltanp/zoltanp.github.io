@@ -16,7 +16,7 @@ This theme stared out being a fork from the [Block-log](https://github.com/anand
 [Github Repository](https://github.com/drvy/minimal-block)
 
 
-![minimal-block preview](https://raw.githubusercontent.com/drvy/minimal-block/master/preview.png)
+![minimal-block preview](../../../preview.png)
 
 Setting up
 ----------------
