@@ -11,10 +11,10 @@ permalink: /:year/:month/:title
 
 # Social share and comments.
 enable-social-module: false
-disqus-id: yourusername
-twitter: yourusername
-github: yourusername
-google: +yourusername
+disqus-id: false # yourusername
+twitter: false # yourusername
+github: zoltanp
+google: false # +yourusername
 
 # RSS feed
 rss-feed-limit: 10
