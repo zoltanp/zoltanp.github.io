@@ -9,6 +9,6 @@ The obligatory first post.
 
 TODO list:
 
-* comments with disqus
+* <s>comments with disqus</s>
 * <s>post categories</s>
 * <s>proper contact information</s>
