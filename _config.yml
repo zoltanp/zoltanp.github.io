@@ -11,7 +11,7 @@ permalink: /:year/:month/:title
 
 # Social share and comments.
 enable-social-module: false
-disqus-id: false # yourusername
+disqus-id: zoltanp-github-io # yourusername
 twitter: false # yourusername
 github: zoltanp
 google: false # +yourusername
