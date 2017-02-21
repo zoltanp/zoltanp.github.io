@@ -4,7 +4,9 @@ layout: page
 <div>
 <h4>Posts related to: {{ page.title }}</h4>
 <br>
-<link rel="alternate" type="application/rss+xml" title="RSS for {{ page.title }} category" href="{{ site.url }}/category/{{ page.category }}_feed.xml">
+<a href="{{ site.url }}/category/{{ page.category }}_feed.xml" title="RSS for {{ page.title }} category" target="_blank">
+  RSS for {{ page.title }} category
+  </a>
 <hr>
 </div>
 
