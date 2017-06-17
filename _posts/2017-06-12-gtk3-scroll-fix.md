@@ -16,12 +16,13 @@ Apparently these grey rectangles are called scrolling indicators and
 they appear as grey because the used GTK theme does not set any styling 
 on them. See this stackoverflow question:
 
-https://unix.stackexchange.com/questions/250880/how-to-disable-or-fix-gt
-k-scrolling-indicators
+[https://unix.stackexchange.com/questions/250880/how-to-disable-or-fix-gt
+k-scrolling-indicators](https://unix.stackexchange.com/questions/250880/how-to-disable-or-fix-gt
+k-scrolling-indicators)
 
 and this Ubuntu bug:
 
-https://bugs.launchpad.net/ubuntu/+source/ubuntu-themes/+bug/1449515
+[https://bugs.launchpad.net/ubuntu/+source/ubuntu-themes/+bug/1449515](https://bugs.launchpad.net/ubuntu/+source/ubuntu-themes/+bug/1449515)
 
 I'm copying the fix from Stackoverflow:
 
