@@ -40,6 +40,12 @@ a {
 
 p { line-height: 1.4; }
 
+.post-date {
+	color: #212121 ;
+	font-size: 0.9em ;
+	margin-bottom: 2em ;
+	text-align: right;
+}
 .top { text-align: right; }
 .inside { padding-left: 15px; }
 
