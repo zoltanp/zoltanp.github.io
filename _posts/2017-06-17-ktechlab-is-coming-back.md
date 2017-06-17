@@ -2,7 +2,7 @@
 layout: post
 title:  "KTechLab is coming back"
 date:   2017-06-17 08:00:00
-categories: ktechlab, kde
+categories: ktechlab kde
 ---
 
 KTechLab, the IDE for microcontrollers and electronics as joined KDE.
