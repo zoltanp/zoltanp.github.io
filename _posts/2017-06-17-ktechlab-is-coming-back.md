@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KTechLab is coming back"
-date:   2017-06-17 19:00:00
+date:   2017-06-17 08:00:00
 categories: ktechlab, kde
 ---
 
