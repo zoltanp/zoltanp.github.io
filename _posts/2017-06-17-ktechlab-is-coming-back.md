@@ -5,7 +5,7 @@ date:   2017-06-17 08:00:00
 categories: ktechlab kde
 ---
 
-KTechLab, the IDE for microcontrollers and electronics as joined KDE.
+KTechLab, the IDE for microcontrollers and electronics has joined KDE.
 Below I'm summarizing its current status and plans.
 
 Status of KTechLab
@@ -59,6 +59,10 @@ The source code of KTechLab is available in KDE Git, at
 [https://cgit.kde.org/ktechlab.git/](https://cgit.kde.org/ktechlab.git/)
  (note: I'm aware that this link is not a "stable" one, but for now I couldn't figure out the "stable" link).
  
+Instructions for building and running KTechLab are available in the README file from the source code; online version of that file is available at 
+[https://cgit.kde.org/ktechlab.git/tree/README](https://cgit.kde.org/ktechlab.git/tree/README)
+ ; The very short instructions are: run `sh simple-setup.sh` and then `sh simple-launch.sh`.
+
 The notes from joining KDE: 
 [https://community.kde.org/Incubator/Projects/KTechLab](https://community.kde.org/Incubator/Projects/KTechLab)
 
