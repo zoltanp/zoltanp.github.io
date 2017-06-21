@@ -4,7 +4,7 @@
         <title>{{ site.name | xml_escape }} - {{ page.title | xml_escape }}</title>
         <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
         <link>{{ site.url }}/categories/{{ page.category }}.html</link>
-        <atom:link href="{{ site.url }}/categories/{{ page.category }}_feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="{{ site.url }}/category/{{ page.category }}_feed.xml" rel="self" type="application/rss+xml" />
         {% for post in site.categories.[page.category] limit:site.rss-feed-limit %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
