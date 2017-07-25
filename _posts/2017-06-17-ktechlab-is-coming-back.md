@@ -17,7 +17,7 @@ Circuit simulation works well.
 ![Circuit simulation]({{ site.url }}/assets/2017-06-17-ktechlab-1-circuit-sim.png)
 
 Currently KTechLab depends on Qt4 and KDE4, 
-but it should be migrated to Qt5/KDE5 as soon as possible.
+but it should be migrated to Qt5/KF5 (KDE Frameworks 5) as soon as possible.
 
 ![KDE4 and Qt4 are dependencies]({{ site.url }}/assets/2017-06-17-ktechlab-2-about-kde.png)
 
@@ -42,7 +42,7 @@ Plans
 1. Firstly I'd like to have KTechLab running with all features in usable state and have a release.
 Qt4 and KDE4 is still mostly around, but I'm aware that it is getting deprecated.
 
-2. After the release is done, port KTechLab to Qt5 and KDE5, and have another release.
+2. After the release is done, port KTechLab to Qt5 and KF5, and have another release.
 
 3. Keep KTechLab running on latest Qt and KDE libraries, and if requested, add new features.
 
@@ -96,3 +96,7 @@ There are several areas where contributions could greatly help the project:
 Contact
 ---
 I recommand using the mailing list `ktechlab-devel` at KDE; alternatively try IRC, `#ktechlab` on freenode.net.
+
+
+Update 1: replaced KDE5 with KDE Frameworks 5 (KF5).
+
