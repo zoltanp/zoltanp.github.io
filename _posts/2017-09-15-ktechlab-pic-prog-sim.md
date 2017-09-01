@@ -99,7 +99,7 @@ after a program has been loaded on the PIC.
 
 ![Add circuit to project]({{ site.url }}/assets/2017-09-01-ktechlab-6-add-circ-prj.png)
 
-![Save the circuit]({{ site.url }}/assets/2017-09-01-ktechlab-8-add-c-prog.png)
+![Save the circuit]({{ site.url }}/assets/2017-09-01-ktechlab-7-save-circuit.png)
 
 
 ## Create a C program for PIC in KTechLab
@@ -107,7 +107,7 @@ after a program has been loaded on the PIC.
 For simplicity, in this guide I use the example file from KTechLab sources
 `examples/pic_blink/pic_blink.c`.
 
-Open the sample C program with `File` -> `Open...'.
+Open the sample C program with `File` -> `Open...`.
 
 
 ## Add the PIC program to the project
