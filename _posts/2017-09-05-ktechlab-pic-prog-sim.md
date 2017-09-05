@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "KTechLab: Simulating PIC microcontroller and a program running on it"
-date:   2017-09-15 22:30:00
-categories: ktechlab
+date:   2017-09-05 22:30:00
+categories: kde ktechlab
 ---
 
 KTechLab is capable of simulating not only circuits,
