@@ -20,4 +20,4 @@ google: false # +yourusername
 
 # RSS feed
 rss-feed-limit: 10
-rss-show-full: "no"
+rss-show-full: "yes"
