@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "KTechLab git master doesn't depend on deprecated Qt5/KF5 API anymore"
-date:   2020-09-11 14:00:00
-categories: ktechlab
+date:   2020-09-19 14:00:00
+categories: kde ktechlab
 ---
 
 [KTechLab git master](https://invent.kde.org/sdk/ktechlab) doesn't depend anymore on deprecated Qt5/KF5 APIs.
