@@ -6,7 +6,7 @@ url: https://zoltanp.github.io
 markdown: kramdown
 highlighter: rouge
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 paginate: 5
 permalink: /:year/:month/:title.html
