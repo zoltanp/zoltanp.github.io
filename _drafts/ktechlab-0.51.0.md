@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Announcing KTechLab 0.51.0"
+#date:   2023-03-29 00:15:00
+categories: kde ktechlab
+---
+
+TODO  date ^
+
+I'm happy to announce KTechLab release version 0.51.0.
+KTechLab is an IDE for microcontrollers and electronics.
+This new release contains the following changes:
+- updated and improved translations
+- the Serial Port component, for better compatibility, uses Qt's QSerialPort, instead of operating-system specific library calls
+- experimental support for Windows; it requires MSVC 2019 compiler
+- various stability fixes
+- modernisation of the codebase, porting away from some deprecated APIs
+
+
+
+[The release tarball of version 0.51.0 can be downloaded from KDE servers](https://download.kde.org/unstable/ktechlab/ktechlab-0.51.0.tar.xz.mirrorlist).
+Its checksums are:
+
+    SHA256Sum: 046b9ce1f2c2a93e1da734a416674a5bb5da3203ac773d49ed693b8492f6d212
+    SHA1Sum: 7729b67050caee5b65fe4dd1dfbfce213cea44ac
+    MD5Sum: 2853c6867535995c1ead598e98fce6e3
+
+
+
+Useful links related to KTechLab
+---
+
+KTechLab has a mailing list at KDE called `ktechlab-devel`:
+[https://mail.kde.org/mailman/listinfo/ktechlab-devel](https://mail.kde.org/mailman/listinfo/ktechlab-devel)
+
+On IRC, developers are mostly reachable on `freenode.net`, on `#ktechlab` channel.
+
+The source code of KTechLab is available in KDE Git, at
+[https://invent.kde.org/sdk/ktechlab](https://invent.kde.org/sdk/ktechlab)
+
+Instructions for building and running KTechLab are available in the README file from the source code; online version of that file is available
+at
+[https://invent.kde.org/sdk/ktechlab/-/blob/master/README](https://invent.kde.org/sdk/ktechlab/-/blob/master/README)
+ ; The very short instructions are: run `sh build-simple.sh` and then `sh run-simple.sh`.
+
+The notes from joining KDE:
+[https://community.kde.org/Incubator/Projects/KTechLab](https://community.kde.org/Incubator/Projects/KTechLab)
+
+KTechLab bugs at KDE bugtracker:
+[https://bugs.kde.org/buglist.cgi?quicksearch=ktechlab](https://bugs.kde.org/buglist.cgi?quicksearch=ktechlab)
